@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{1B0C9FC8-AD00-400C-A616-E90D11D58293}|Lesson2.csproj|c:\\users\\alex\\desktop\\c#\\lesson2\\lesson2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B0C9FC8-AD00-400C-A616-E90D11D58293}|Lesson2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0C9FC8-AD00-400C-A616-E90D11D58293}|Lesson2.csproj|c:\\users\\alex\\desktop\\c#\\lesson2\\lesson2\\models\\askinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0C9FC8-AD00-400C-A616-E90D11D58293}|Lesson2.csproj|solutionrelative:models\\askinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0C9FC8-AD00-400C-A616-E90D11D58293}|Lesson2.csproj|c:\\users\\alex\\desktop\\c#\\lesson2\\lesson2\\lesson2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B0C9FC8-AD00-400C-A616-E90D11D58293}|Lesson2.csproj|solutionrelative:lesson2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AskInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\c#\\Lesson2\\Lesson2\\Models\\AskInfo.cs",
+              "RelativeDocumentMoniker": "Models\\AskInfo.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\c#\\Lesson2\\Lesson2\\Models\\AskInfo.cs",
+              "RelativeToolTip": "Models\\AskInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:39:32.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lesson2",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\c#\\Lesson2\\Lesson2\\Lesson2.csproj",
+              "RelativeDocumentMoniker": "Lesson2.csproj",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\c#\\Lesson2\\Lesson2\\Lesson2.csproj",
+              "RelativeToolTip": "Lesson2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T11:37:47.487Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\c#\\Lesson2\\Lesson2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\c#\\Lesson2\\Lesson2\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\c#\\Lesson2\\Lesson2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T06:44:37.921Z",
               "EditorCaption": ""
