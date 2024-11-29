@@ -9,10 +9,10 @@
             Console.Write("\nEnter the second number: ");
             float second_number = Convert.ToSingle(Console.ReadLine());
             Console.WriteLine("\nResults:");
-            Console.WriteLine($"\n{first_number}+{second_number}={first_number + second_number}");
-            Console.WriteLine($"\n{first_number}-{second_number}={first_number - second_number}");
-            Console.WriteLine($"\n{first_number}*{second_number}={first_number * second_number}");
-            Console.WriteLine($"\n{first_number}/{second_number}={first_number / second_number}");
+            Console.WriteLine($"\n {first_number} + {second_number} = {first_number + second_number}");
+            Console.WriteLine($"\n {first_number} - {second_number} = {first_number - second_number}");
+            Console.WriteLine($"\n {first_number} * {second_number }= {first_number * second_number}");
+            Console.WriteLine($"\n {first_number} / {second_number} = {first_number / second_number}");
 
         }
     }
